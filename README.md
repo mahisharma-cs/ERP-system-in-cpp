@@ -5,6 +5,7 @@ It is a project which is work on file management system. The DAT file contain al
 # Dashboard of Operator
 Operator's dashboard contain various options like add, search, delete, update, view and logout.
 ![Operator's dashboard](https://github.com/mahisharma-cs/Employee-Management-System/blob/master/image/0.jpg "Operator"){:height="auto" width="60%"}
+<img src="https://github.com/mahisharma-cs/Employee-Management-System/blob/master/image/0.jpg" width="60%" height="auto" alt="Operator's dashboard">
 
 # Login window
 This is the login window for every person attach to this erp.
